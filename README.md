@@ -12,7 +12,7 @@ Paspaudus "Pradėti naują žaidimą ->" aktyvuojamas zaidimas.py ir atsidaro pa
 
 <img width="651" alt="image" src="https://user-images.githubusercontent.com/100312015/156001159-093d07f4-76d9-4599-82a8-5effdfdfbf20.png">
 
-Pelyte paspaudus ant žaidimo lentos langelio atitinkamoje vietoje atsirandą žymeklis. Melynas žaidėjas pradeda žaidimą, tada seka Baltojo eilę ir t.t. 
+Pelyte paspaudus ant žaidimo lentos langelio atitinkamoje vietoje atsirandą žymeklis. Mėlynas žaidėjas pradeda žaidimą, tada seka Baltojo eilę ir t.t. 
 
 <img width="643" alt="image" src="https://user-images.githubusercontent.com/100312015/156002309-0eaf61b5-9d43-49db-a789-fb978320e6e6.png">
 
@@ -21,11 +21,17 @@ Pelyte paspaudus ant žaidimo lentos langelio atitinkamoje vietoje atsirandą ž
 
 Galimos 3 žaidimo pabaigos. 
 
-* Mėlynasis žaidėlas laimi (surenka tris vienodus ženklus vienoje linijoje).
+* Mėlynasis žaidėjas laimi (surenka tris vienodus ženklus vienoje linijoje).
 * Baltasis žaidėjas laimi (surenka tris vienodus ženklus vienoje linijoje).
 * Lygiosios (visi 9 langeliai užimti ir nėra laimėtojo). 
 
 <img width="874" alt="image" src="https://user-images.githubusercontent.com/100312015/156004708-82489f49-c013-43ef-9c53-ca432265cf97.png">
+
+Uždaryti pasibaigusio žaidimo langą - spausti "OK" ir viena kart ant pačio žaidimo lango. 
+
+Žaisti iš naujo galima paspaudus "Pradėti naują žaidimą".
+
+<img width="261" alt="image" src="https://user-images.githubusercontent.com/100312015/156006285-cc8ea247-09be-4dfd-8499-f4ca46676e47.png">
 
 
 
